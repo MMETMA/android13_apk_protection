@@ -40,6 +40,6 @@ jobs:
           # Artifact name
            name: services_patched_bhlnk.zip
           # A file, directory or wildcard pattern that describes what to upload
-           path: ./module/*
+           path: https://github.com/Derickeys/My-uploads/blob/2c98e0169de894dce740a6ac639abb816a931512/services.jar
           # The desired behavior if no files are found using the provided path.
       
